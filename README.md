@@ -6,7 +6,7 @@
 - **Set Schedule Filename**: Change the filename for saving flight data as needed.
 - **Data Persistence**: Flight data is stored in a JSON file
 
-### Example Input
+## Example Input
 - **origin**: `New York`
 - **destination**: `Los Angeles`
 - **flight number**: `NY123`
